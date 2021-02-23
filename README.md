@@ -15,7 +15,7 @@ Written by: [penucuriCode - Meow404](https://github.com/penucuriCode)
 ## Installation
 ```sh
 $ git clone https://github.com/penucuriCode/dirfind
-$ cd dir-find
+$ cd dirfind
 $ sudo pip3 install -r requirements.txt
 $ python3 find.py
 ```
