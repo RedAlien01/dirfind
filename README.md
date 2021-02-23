@@ -1,8 +1,7 @@
 # UPLOAD DIR FINDER
-**This script is recode from admin-san project.**
+**This script is writted by penucuriCode project.**
 
-Written by: [TheFuzzyRabbit](https://github.com/FuzzyRabbit) [@rabbit_fuzzy]
-Recode by: [Unknown45](https://github.com/whoami-45)
+Written by: [penucuriCode - Meow404](https://github.com/penucuriCode)
 
 ##### PREREQUISITES
 * Python 3.x 
@@ -15,7 +14,7 @@ Recode by: [Unknown45](https://github.com/whoami-45)
 
 ## Installation
 ```sh
-$ git clone https://github.com/whoami-45/dir-find
+$ git clone https://github.com/penucuriCode/dirfind
 $ cd dir-find
 $ sudo pip3 install -r requirements.txt
 $ python3 find.py
